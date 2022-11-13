@@ -80,7 +80,7 @@ function App() {
     <div className="App">
       <div className="container" style={{ margin: "0 auto" }}>
         <div className="headContainer">
-          <h1>Translator App</h1>
+          <h1>Translator</h1>
         </div>
         <div className="wrapper">
           <div className="text-input">
